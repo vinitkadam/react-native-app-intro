@@ -77,7 +77,7 @@ const defaulStyles = {
     right: 0,
     flexDirection: 'row',
     flex: 1,
-    justifyContent: 'center',
+    justifyContent: 'space-between',
     alignItems: 'center',
     backgroundColor: 'transparent',
   },
@@ -88,7 +88,7 @@ const defaulStyles = {
     alignItems: 'center',
   },
   btnContainer: {
-    flex: 0.2,
+    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     height: 50,
